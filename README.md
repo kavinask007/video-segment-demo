@@ -1,5 +1,5 @@
 
-## Video Segmentation using Meta AI's SAM2 Model
+## Video Segmentation Application implementation using Meta AI's SAM2 Model using fastAPI
 
-### Demo
-[![Watch the video](https://img.youtube.com/vi/jB9ziJwbNTM/0.jpg)](https://www.youtube.com/watch?v=jB9ziJwbNTM)
+https://github.com/user-attachments/assets/b5a2e4e9-a3ae-44a8-98e9-9c968dcae19d
+
